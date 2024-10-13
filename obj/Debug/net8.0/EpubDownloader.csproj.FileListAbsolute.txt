@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\bin\Debug\net8.0\EpubDownloader.exe
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\bin\Debug\net8.0\EpubDownloader.deps.json
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\bin\Debug\net8.0\EpubDownloader.runtimeconfig.json
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\bin\Debug\net8.0\EpubDownloader.dll
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\bin\Debug\net8.0\EpubDownloader.pdb
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.AssemblyInfo.cs
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.dll
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\refint\EpubDownloader.dll
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.pdb
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\EpubDownloader.genruntimeconfig.cache
+C:\Users\User\Desktop\Python tkharbi9\EpubDownloader\obj\Debug\net8.0\ref\EpubDownloader.dll
