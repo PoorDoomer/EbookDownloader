@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ApiFunctions;
 using Book;
 using Loaders;
+using EnvironmentVariable;
 namespace EpubDownloader
 {
     class Program
@@ -16,6 +17,8 @@ namespace EpubDownloader
         {
             Console.WriteLine("Welcome to the Epub Downloader!");
 
+            Console.WriteLine("Please enter your API key for the Anna's Archive API:");
+            EnvironmentVariables.apiKey = Console.ReadLine();
             while (true)
             {
                 Console.WriteLine("Please choose a command:");
@@ -175,7 +178,7 @@ else if (action.ToLower().StartsWith("-dl"))
     if (int.TryParse(action.Split(' ')[1], out bookId) && bookId > 0 && bookId <= books.Count)
     {
         var selectedBook = books[bookId - 1];
-
+        EnvironmentVariable.EnvironmentVariables.EnsureDownloadFolderExists();
         // Show a loader while retrieving download links
         Loader.Start();
         var downloadLinks = await apiClient.DownloadBookAsync(selectedBook.Md5);
